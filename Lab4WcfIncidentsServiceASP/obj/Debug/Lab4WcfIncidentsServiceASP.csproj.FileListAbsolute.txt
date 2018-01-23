@@ -1,0 +1,42 @@
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab4WcfIncidentsServiceASP\Lab4WcfIncidentsServiceASP\bin\App_Data\TechSupport.mdf
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab4WcfIncidentsServiceASP\Lab4WcfIncidentsServiceASP\bin\App_Data\TechSupport_log.ldf
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab4WcfIncidentsServiceASP\Lab4WcfIncidentsServiceASP\bin\ApplicationInsights.config
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab4WcfIncidentsServiceASP\Lab4WcfIncidentsServiceASP\bin\Lab4WcfIncidentsServiceASP.dll.config
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab4WcfIncidentsServiceASP\Lab4WcfIncidentsServiceASP\bin\Lab4WcfIncidentsServiceASP.dll
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab4WcfIncidentsServiceASP\Lab4WcfIncidentsServiceASP\bin\Lab4WcfIncidentsServiceASP.pdb
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab4WcfIncidentsServiceASP\Lab4WcfIncidentsServiceASP\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab4WcfIncidentsServiceASP\Lab4WcfIncidentsServiceASP\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab4WcfIncidentsServiceASP\Lab4WcfIncidentsServiceASP\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab4WcfIncidentsServiceASP\Lab4WcfIncidentsServiceASP\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab4WcfIncidentsServiceASP\Lab4WcfIncidentsServiceASP\bin\Microsoft.AI.Web.dll
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab4WcfIncidentsServiceASP\Lab4WcfIncidentsServiceASP\bin\Microsoft.AI.WindowsServer.dll
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab4WcfIncidentsServiceASP\Lab4WcfIncidentsServiceASP\bin\Microsoft.ApplicationInsights.dll
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab4WcfIncidentsServiceASP\Lab4WcfIncidentsServiceASP\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab4WcfIncidentsServiceASP\Lab4WcfIncidentsServiceASP\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab4WcfIncidentsServiceASP\Lab4WcfIncidentsServiceASP\bin\Microsoft.AI.Web.xml
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab4WcfIncidentsServiceASP\Lab4WcfIncidentsServiceASP\bin\Microsoft.AI.WindowsServer.xml
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab4WcfIncidentsServiceASP\Lab4WcfIncidentsServiceASP\bin\Microsoft.ApplicationInsights.xml
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab4WcfIncidentsServiceASP\Lab4WcfIncidentsServiceASP\obj\Debug\Lab4WcfIncidentsServiceASP.csprojResolveAssemblyReference.cache
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab4WcfIncidentsServiceASP\Lab4WcfIncidentsServiceASP\obj\Debug\Lab4WcfIncidentsServiceASP.dll
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab4WcfIncidentsServiceASP\Lab4WcfIncidentsServiceASP\obj\Debug\Lab4WcfIncidentsServiceASP.pdb
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab4WcfIncidentsServiceASP\Lab4WcfIncidentsServiceASP\bin\App_Data\TechSupport.mdf
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab4WcfIncidentsServiceASP\Lab4WcfIncidentsServiceASP\bin\App_Data\TechSupport_log.ldf
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab4WcfIncidentsServiceASP\Lab4WcfIncidentsServiceASP\bin\ApplicationInsights.config
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab4WcfIncidentsServiceASP\Lab4WcfIncidentsServiceASP\bin\Lab4WcfIncidentsServiceASP.dll.config
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab4WcfIncidentsServiceASP\Lab4WcfIncidentsServiceASP\bin\Lab4WcfIncidentsServiceASP.dll
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab4WcfIncidentsServiceASP\Lab4WcfIncidentsServiceASP\bin\Lab4WcfIncidentsServiceASP.pdb
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab4WcfIncidentsServiceASP\Lab4WcfIncidentsServiceASP\bin\Microsoft.AI.Agent.Intercept.dll
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab4WcfIncidentsServiceASP\Lab4WcfIncidentsServiceASP\bin\Microsoft.AI.DependencyCollector.dll
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab4WcfIncidentsServiceASP\Lab4WcfIncidentsServiceASP\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab4WcfIncidentsServiceASP\Lab4WcfIncidentsServiceASP\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab4WcfIncidentsServiceASP\Lab4WcfIncidentsServiceASP\bin\Microsoft.AI.Web.dll
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab4WcfIncidentsServiceASP\Lab4WcfIncidentsServiceASP\bin\Microsoft.AI.WindowsServer.dll
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab4WcfIncidentsServiceASP\Lab4WcfIncidentsServiceASP\bin\Microsoft.ApplicationInsights.dll
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab4WcfIncidentsServiceASP\Lab4WcfIncidentsServiceASP\bin\Microsoft.AI.DependencyCollector.xml
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab4WcfIncidentsServiceASP\Lab4WcfIncidentsServiceASP\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab4WcfIncidentsServiceASP\Lab4WcfIncidentsServiceASP\bin\Microsoft.AI.Web.xml
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab4WcfIncidentsServiceASP\Lab4WcfIncidentsServiceASP\bin\Microsoft.AI.WindowsServer.xml
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab4WcfIncidentsServiceASP\Lab4WcfIncidentsServiceASP\bin\Microsoft.ApplicationInsights.xml
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab4WcfIncidentsServiceASP\Lab4WcfIncidentsServiceASP\obj\Debug\Lab4WcfIncidentsServiceASP.csprojResolveAssemblyReference.cache
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab4WcfIncidentsServiceASP\Lab4WcfIncidentsServiceASP\obj\Debug\Lab4WcfIncidentsServiceASP.dll
+E:\000-BACKUP\000-SAIT\001-C-SHARP\Lab4WcfIncidentsServiceASP\Lab4WcfIncidentsServiceASP\obj\Debug\Lab4WcfIncidentsServiceASP.pdb
